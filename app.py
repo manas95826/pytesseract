@@ -30,7 +30,4 @@ if uploaded_file is not None:
         # Add layout analysis or table detection here
         st.write("Layout Analysis / Table Detection Results:")
 
-# Example: You can integrate Hugging Face models for advanced layout analysis or table detection.
-# You would need to install the required Hugging Face libraries and use the model accordingly.
-# Example: https://huggingface.co/models?pipeline_tag=table-question-answering
 
